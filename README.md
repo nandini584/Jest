@@ -10,4 +10,5 @@ This is the first time I am learning Jest but I wanted to create a game for ever
 ``` npm install --save-dev jest ```
 
 2. Add ``` "test": "jest --coverage" ``` to get the full testing information.
+<br/>
 That's it for now Happy Coding!!
