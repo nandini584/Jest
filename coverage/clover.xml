@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1701925664866" clover="3.2.0">
-  <project timestamp="1701925664866" name="All files">
+<coverage generated="1701938588870" clover="3.2.0">
+  <project timestamp="1701938588870" name="All files">
     <metrics statements="17" coveredstatements="15" conditionals="8" coveredconditionals="7" methods="2" coveredmethods="2" elements="27" coveredelements="24" complexity="0" loc="17" ncloc="17" packages="1" files="2" classes="2"/>
     <file name="Ques5.js" path="E:\Web dev restart\Jest\Jest\Testing\Ques5.js">
       <metrics statements="15" coveredstatements="13" conditionals="8" coveredconditionals="7" methods="1" coveredmethods="1"/>
